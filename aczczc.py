@@ -1,0 +1,1 @@
+https://github.com/4ebevara/FastAPINews.git
